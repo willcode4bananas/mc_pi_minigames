@@ -33,7 +33,7 @@ def check_win():
         slot4 == 103 and slot5 == 103 and slot6 == 103 or \
         slot7 == 103 and slot8 == 103 and slot9 == 103 or \
         slot1 == 103 and slot4 == 103 and slot7 == 103 or \
-        slot2 == 103 and slot4 == 103 and slot8 == 103 or \
+        slot2 == 103 and slot5 == 103 and slot8 == 103 or \
         slot3 == 103 and slot6 == 103 and slot9 == 103 or \
         slot1 == 103 and slot5 == 103 and slot9 == 103 or \
         slot3 == 103 and slot5 == 103 and slot7 == 103:
